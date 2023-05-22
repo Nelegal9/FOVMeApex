@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903076938375",
+    "project_id": "fovmeapexauth",
+    "storage_bucket": "fovmeapexauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903076938375:android:56692bf7a33c187f772e22",
+        "android_client_info": {
+          "package_name": "com.alekhin.fovmeapex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903076938375-los3dh5mim8fibrmhnsid2hmk13vh4gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ms3O7-i7UUBB3KHBrPMW-TZQn6OkfHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903076938375-los3dh5mim8fibrmhnsid2hmk13vh4gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

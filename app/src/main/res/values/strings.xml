@@ -1,0 +1,230 @@
+<resources>
+    <string name="app_name">FOVMeApex</string>
+
+    <!-- region ON BOARDING -->
+
+    <!-- region TITLE -->
+
+    <string name="title_one">Greetings, Legend</string>
+    <string name="title_two">But Remember</string>
+    <string name="title_three">In the End</string>
+
+    <!-- endregion -->
+
+    <!-- region DESCRIPTION -->
+
+    <string name="description_one">This application is designed for calculation &amp; conversion of your mouse sensitivity while also providing editing of config files to achieve unparalleled precision and accuracy in your gameplay.</string>
+    <string name="description_two">True mastery can\'t be programmed and numbers mean nothing against a true fighter as perfection requires time and attention.</string>
+    <string name="description_three">If you are ready to find out your setup, simply sign up and get started. Good luck!</string>
+
+    <!-- endregion -->
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- endregion -->
+
+    <!-- region AUTHENTICATION -->
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!-- region LOGIN -->
+
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- endregion -->
+
+    <!-- region REGISTRATION -->
+
+    <string name="user_name">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="terms_and_conditions">Terms &amp; Conditions</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- region MAIN -->
+
+    <!-- region DRAWER -->
+
+    <string name="home">Home</string>
+    <string name="calculator">Calculator</string>
+    <string name="sensitivity_converter">Sensitivity converter</string>
+    <string name="sensitivity_finder">Sensitivity finder</string>
+    <string name="config_editor">Config editor</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="sign_out">Sign out</string>
+
+    <!-- endregion -->
+
+    <!-- region CALCULATOR -->
+
+    <!-- region INPUT -->
+
+    <!-- region FIELD OF VIEW -->
+
+    <string name="field_of_view_input_units">Field of View Input Units:</string>
+
+    <string-array name="field_of_view_input_units">
+        <item>In-game</item>
+        <item>Config File (cl_fovScale)</item>
+        <item>Degrees (1:1)</item>
+        <item>Degrees (4:3)</item>
+        <item>Degrees (16:9)</item>
+    </string-array>
+
+    <string name="field_of_view">Field of View (FOV):</string>
+    <string name="cl_fov_scale">cl_fovScale:</string>
+    <string name="fov_degrees">FOV Degrees:</string>
+
+    <!-- endregion -->
+
+    <!-- region SENSITIVITY -->
+
+    <string name="mouse_counts_per_inch">Mouse Counts Per Inch (CPI):</string>
+
+    <!-- region HIPFIRE -->
+
+    <string name="sensitivity_input_units">Sensitivity Input Units:</string>
+
+    <string-array name="sensitivity_input_units">
+        <item>In-game</item>
+        <item>360° Distance</item>
+        <item>Increment</item>
+    </string-array>
+
+    <string name="mouse_sensitivity">Mouse Sensitivity:</string>
+    <string name="three_sixty_distance_cm_three_sixty">360° Distance (cm/360°):</string>
+    <string name="increment_deg_count">Increment (deg/count):</string>
+
+    <!-- endregion -->
+
+    <!-- region ADS -->
+
+    <string name="ads_sensitivity_input_units">ADS Sensitivity Input Units:</string>
+
+    <string-array name="ads_sensitivity_input_units">
+        <item>ADS Mouse Sensitivity Multiplier</item>
+        <item>Per Optic ADS Sensitivity</item>
+        <item>Automatically Set Correct Multipliers</item>
+        <item>Match 360° Distance</item>
+    </string-array>
+
+    <string name="ads_mouse_sensitivity_multiplier">ADS Mouse Sensitivity Multiplier:</string>
+    <string name="mouse_zoomed_sensitivity_scalar_0">1x Optic / Iron Sights (mouse_zoomed_sensitivity_scalar_0):</string>
+    <string name="mouse_zoomed_sensitivity_scalar_1">2x Optic (mouse_zoomed_sensitivity_scalar_1):</string>
+    <string name="mouse_zoomed_sensitivity_scalar_2">3x Optic (mouse_zoomed_sensitivity_scalar_2):</string>
+    <string name="mouse_zoomed_sensitivity_scalar_3">4x Optic (mouse_zoomed_sensitivity_scalar_3):</string>
+    <string name="mouse_zoomed_sensitivity_scalar_4">6x Optic (mouse_zoomed_sensitivity_scalar_4):</string>
+    <string name="mouse_zoomed_sensitivity_scalar_5">8x Optic (mouse_zoomed_sensitivity_scalar_5):</string>
+    <string name="mouse_zoomed_sensitivity_scalar_6">10x Optic (mouse_zoomed_sensitivity_scalar_6):</string>
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- region RESULT -->
+
+    <string name="aim">Aim:</string>
+
+    <string-array name="aim">
+        <item>Hipfire</item>
+        <item>1× ADS</item>
+        <item>2× ADS</item>
+        <item>1× Optic</item>
+        <item>2× Optic</item>
+        <item>3× Optic</item>
+        <item>4× Optic</item>
+        <item>6× Optic</item>
+        <item>8× Optic</item>
+        <item>10× Optic</item>
+    </string-array>
+
+    <!-- region FIELD OF VIEW -->
+
+    <string name="fov_ingame_value">FOV (Ingame value):</string>
+    <string name="fov_one_by_one">FOV 1:1°</string>
+    <string name="fov_four_by_three">FOV 4:3°</string>
+    <string name="fov_sixteen_by_nine">FOV 16:9°</string>
+    <string name="ads_zoom">ADS Zoom:</string>
+
+    <!-- endregion -->
+
+    <!-- region SENSITIVITY -->
+
+    <!-- region HIPFIRE-->
+
+    <string name="sensitivity">Sensitivity:</string>
+    <string name="label_effective_mouse_counts_per_inch">Effective Mouse Counts Per Inch (eCPI):</string>
+    <string name="increment">Increment:</string>
+    <string name="circumference_cm_three_sixty">Circumference (cm/360°):</string>
+
+    <!-- endregion -->
+
+    <!-- region ADS -->
+
+    <string name="ads_multiplier">ADS Multiplier:</string>
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- region CONVERTER -->
+
+    <!-- region INPUT -->
+
+    <!-- region FIELD OF VIEW -->
+
+    <!-- region OLD -->
+
+    <string name="old_field_of_view">Current Field of View (FOV):</string>
+    <string name="old_cl_fov_scale">Current cl_fovScale:</string>
+    <string name="old_fov_degrees">Current FOV Degrees:</string>
+
+    <!-- endregion -->
+
+    <!-- region NEW -->
+
+    <string name="new_field_of_view">New Field of View (FOV):</string>
+    <string name="new_cl_fov_scale">New cl_fovScale:</string>
+    <string name="new_fov_degrees">New FOV Degrees:</string>
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- region RESULT -->
+
+    <string-array name="converter_aim">
+        <item>Current</item>
+        <item>New</item>
+    </string-array>
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+    <!-- region CONFIG EDITOR -->
+
+    <string name="config_files">Config Files</string>
+
+    <!-- endregion -->
+
+    <!-- endregion -->
+
+</resources>

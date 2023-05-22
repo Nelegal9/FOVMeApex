@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FOVMeApex.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="windowSplashScreenBackground">@color/md_theme_light_background</item>
+        <item name="postSplashScreenTheme">@style/Theme.FOVMeApex</item>
+    </style>
+</resources>
